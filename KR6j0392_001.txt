@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:29.816350
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:02
 #+TITLE: 八曼荼羅經
 #+PROPERTY: CBETA_ID T20n1168B
 #+PROPERTY: ID KR6j0392
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1168B
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0392_T_000-0676c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0392_T_001-0676c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1168B[No.1167]¶
-
- 八曼荼羅經¶
+No. 1168B [No. 1167]¶
+八曼荼羅經¶
 ¶
 
 如是我一婆¶
