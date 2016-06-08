@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:29.816350
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:02
 #+TITLE: 八曼荼羅經
 #+PROPERTY: CBETA_ID T20n1168B
 #+PROPERTY: ID KR6j0392
